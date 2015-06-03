@@ -25,7 +25,7 @@
 
 .fixed-action-btn {
     bottom: 45px;
-    right: 24px;
+    right: 140px;
 }
 
 .likable { list-style-type: none }
@@ -50,4 +50,12 @@
 .user-name {
     font-size: 16px;
     font-weight: bold;
+}
+
+.friend-online > img {
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    width: 50px;
+    padding: 0.2em 0;
 }

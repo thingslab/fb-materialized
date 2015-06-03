@@ -34,3 +34,20 @@
     display: inline;
     padding: 0 8px;
 }
+
+.user-image >img {
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    width: 50px;
+}
+
+.user-details {
+    font-size: 12px;
+    padding-left: 1.2em;
+}
+
+.user-name {
+    font-size: 16px;
+    font-weight: bold;
+}

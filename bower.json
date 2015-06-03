@@ -1,0 +1,14 @@
+{
+  "name": "materialize",
+  "version": "0.1.0",
+  "authors": [
+    "Era Balliu <balliuera@gmail.com>",
+    "Aldo Ziflaj <aldoziflaj95@gmail.com>"
+  ],
+  "description": "facebook version materialize",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "materialize": "~0.96.1"
+  }
+}
